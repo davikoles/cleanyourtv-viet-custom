@@ -1,0 +1,36 @@
+Licensing overview for CleanYourTV Viet Custom
+==============================================
+
+This distribution combines components with different license terms.
+It must not be described as entirely MIT-licensed or unrestricted for
+commercial use.
+
+1. The CleanYourTV launcher code is copyright (c) 2026 Gathin and is
+   distributed under the MIT License, preserved in:
+   licenses/MIT-CleanYourTV.txt
+   Custom additions other than the exceptions below are distributed
+   under the same MIT terms.
+
+2. VietnameseLunarDate.java is adapted from Ho Ngoc Duc's amlich-aa98
+   calendar code. Its notice permits personal, non-commercial use,
+   copying, modification and redistribution, subject to retaining the
+   copyright and documentation notice. These terms are preserved in:
+   licenses/AMLICH-NOTICE.txt
+   This component is not relicensed under MIT by this distribution.
+
+3. The unmodified Outfit font is distributed under SIL Open Font License
+   1.1. See launcher/FONT-LICENSE-OFL.txt.
+
+4. Gradle wrapper files retain their Apache License 2.0 notices.
+   See licenses/Apache-2.0.txt.
+
+Dependency licenses remain with their respective authors. No third-party
+streaming applications are distributed. Four user-supplied wallpaper images
+are included in launcher/app/src/main/assets/wallpapers. They are not
+relicensed under MIT; their respective rights remain with the image authors
+or rights holders. See docs/WALLPAPERS.md and WALLPAPER-SHA256.txt.
+
+Retain this file, NOTICE.md, the applicable license texts, and source
+copyright headers when redistributing. For uses outside the lunar
+component's personal/non-commercial permission, obtain suitable permission
+or replace it with a component whose license permits the intended use.

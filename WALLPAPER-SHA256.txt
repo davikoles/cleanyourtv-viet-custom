@@ -1,0 +1,4 @@
+cf26ae0ceaa8308ac7b09f140eccda765291cefdbf71168efcc04f1bf7c777b5  launcher/app/src/main/assets/wallpapers/bundled-01-aurora.jpg
+cd55ff35316c35dedf0a4dda5bb254b0ace7d7fb734083edfe64cf7a2e113954  launcher/app/src/main/assets/wallpapers/bundled-02-mountain-lake.jpg
+8cd3ad72964de232da934e795b3ed699eff1f725b9c9ad6ad649011879b55642  launcher/app/src/main/assets/wallpapers/bundled-03-cr7.jpg
+c60529a05b8207fb88fb82e82ec3f6ee8393df20d87b2e8bbcca91c7cb5288ec  launcher/app/src/main/assets/wallpapers/bundled-04-avengers.jpg

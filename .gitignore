@@ -1,0 +1,54 @@
+# Generated Android/Gradle/IDE files
+.gradle/
+**/.gradle/
+build/
+**/build/
+.idea/
+*.iml
+.vscode/
+local.properties
+**/local.properties
+.DS_Store
+Thumbs.db
+
+# Local signing keys, credentials and device data
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+key.properties
+keystore.properties
+signing.properties
+.env
+.env.*
+!.env.example
+adbkey
+adbkey.pub
+**/adbkey/
+google-services.json
+backup/
+backups/
+shots/
+private/
+
+# APKs belong in a release, not in the source tree
+*.apk
+*.aab
+*.apks
+*.zip
+
+# Personal theme state and locally added media
+wallpaper.jpg
+wallpapers/
+!launcher/app/src/main/assets/wallpapers/
+!launcher/app/src/main/assets/wallpapers/*.jpg
+TV-Wallpapers/
+theme_revision
+
+# Temporary files and local source copies
+*.bak
+*.before-*
+*.log
+*.tmp
+*~

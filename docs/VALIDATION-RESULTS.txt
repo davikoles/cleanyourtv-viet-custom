@@ -1,0 +1,25 @@
+Packaging validation: 2026-10-24 - launcher with bundled wallpapers
+
+PASS - Java source and generated R compiled with Android API 34 and AndroidX.
+PASS - All 204 JUnit tests: 200 original tests plus 4 bundled wallpaper tests.
+       99 Java files compiled including generated R and tests.
+PASS - AAPT2 compile/link of all packaged Android resources and assets.
+PASS - All 4 JPEGs match the supplied TV-Wallpapers.zip byte-for-byte.
+PASS - All 4 JPEGs are present unchanged in the AAPT-linked Android output.
+PASS - Original/installed picture preservation and failed-copy cleanup tests.
+PASS - Git ignore check: bundled assets tracked; private wallpaper folders ignored.
+PASS - XML/JSON parsing, documentation links and private-file checks.
+PASS - Gradle wrapper checksum was verified against the official Gradle 8.9 checksum
+       in the preceding source packaging; wrapper bytes are unchanged.
+
+New scope since source-only snapshot:
+- Four user-supplied JPEG assets and BundledWallpapers installer.
+- CR7 initial selection only for a fresh install without existing theme/choices.
+- Six-column dock defaults and cinematic/focus settings from supplied configuration.
+- No third-party APKs, app account data, owner name or PIN included.
+- Wallpaper image rights are separate from the code licenses.
+
+NOT RUN HERE - Full Gradle/lint/R8 build, Windows PowerShell scripts,
+               GitHub-hosted workflow or the new image installer on a physical box.
+               Run the documented full Gradle checks and test on the target device
+               before distributing an APK.

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="child_lock_name">Khóa trẻ em — CleanYourTV</string>
+    <string name="child_lock_description">Phủ màn hình đen, thử tắt tiếng và chặn phím của box khi khóa trẻ em đang bật. Khi chưa khóa, phím vẫn hoạt động bình thường. Không đọc nội dung màn hình. Mở khóa bằng 5 lần Mute hoặc OK rồi nhập PIN của chế độ đã chọn: theo giờ Việt Nam ddMMHH hoặc cố định 6 số.</string>
+</resources>

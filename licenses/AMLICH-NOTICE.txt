@@ -1,0 +1,17 @@
+VietnameseLunarDate.java — notice retained from the source adaptation
+
+Calendar conversion adapted from Ho Ngoc Duc's amlich-aa98 astronomical algorithm:
+https://www.informatik.uni-leipzig.de/~duc/amlich/
+Reference distribution:
+https://github.com/vanng822/amlich/blob/master/lib/amlich-aa98.js
+
+Copyright (c) 2006 Ho Ngoc Duc. All Rights Reserved.
+Astronomical algorithms from the book "Astronomical Algorithms" by Jean Meeus, 1998.
+Permission to use, copy, modify, and redistribute this software and its
+documentation for personal, non-commercial use is hereby granted provided that
+this copyright notice and appropriate documentation appears in all copies.
+
+The Java adaptation keeps that notice and uses the Vietnam UTC+7 civil date,
+independently of the device's selected time zone. It is not the Shamsi calendar.
+
+No broader permission or MIT relicensing is asserted for this component.
